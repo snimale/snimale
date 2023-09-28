@@ -3,6 +3,8 @@
 
 ## Projects
 ### [Color Dash: Obstacle Racing](https://play.google.com/store/apps/details?id=com.sleepwalkergames.colordash)
+<img src="https://github.com/snimale/snimale/blob/main/Color%20Dash%20Work/Screenshot%20(111).png" alt="Banner of Color Dash: Obstacle Racing" width="400"/>&emsp;&emsp;<img src="https://github.com/snimale/snimale/blob/main/Color%20Dash%20Work/color%20dash%20playstore%20pics/pic1.png" alt="Gameplay Image of Color Dash: Obstacle Racing 1" width="105"/>&emsp;&emsp;<img src="https://github.com/snimale/snimale/blob/main/Color%20Dash%20Work/color%20dash%20playstore%20pics/pic2.png" alt="Gameplay Image of Color Dash: Obstacle Racing 2" width="105"/>
+
 #### About this game
 The game 'Color Dash' is an Obstacle racing game where players need to dodge different colors by jumping or turning in appropriate direction. Colliding with obstacles of same color as the player is allowed. Because of its concept it is a relaxing and competitive game at the same time.
 #### What's new
